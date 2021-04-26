@@ -1,0 +1,1699 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SwipeWP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-01 08:25+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.2.1"
+
+#: 404.php:23
+msgid "404"
+msgstr ""
+
+#: 404.php:23
+msgid "Error"
+msgstr ""
+
+#: 404.php:25
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+msgid "1 Comment"
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Comments"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:48
+msgid "Primary Menu"
+msgstr ""
+
+#. %s: search query.
+#: search.php:22 inc/hooks/custom.php:309
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/mt-custom-metabox.php:21 inc/mt-custom-metabox.php:30
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/mt-custom-metabox.php:56
+msgid "Default Sidebar"
+msgstr ""
+
+#: inc/mt-custom-metabox.php:62
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/mt-custom-metabox.php:68
+msgid "Right sidebar"
+msgstr ""
+
+#: inc/mt-custom-metabox.php:74
+msgid "No sidebar Full width"
+msgstr ""
+
+#: inc/mt-custom-metabox.php:80
+msgid "No sidebar Content Centered"
+msgstr ""
+
+#: inc/template-functions.php:85
+msgctxt "Montserrat: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/template-functions.php:86
+msgctxt "OpenSans: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/template-functions.php:87
+msgctxt "Playball: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/template-functions.php:208
+msgid "Select Category"
+msgstr ""
+
+#: inc/template-functions.php:455
+msgid "Read More"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:42
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:61
+msgid ", "
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:64
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:68
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:71
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:81
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:98 template-parts/content-page.php:37
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/woocommerce.php:227
+msgid "View your shopping cart"
+msgstr ""
+
+#. number of items in the mini cart.
+#: inc/woocommerce.php:231
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:24 template-parts/content-single.php:47
+#: template-parts/content.php:56
+msgid "Pages:"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:36 template-parts/content.php:45
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/customizer/customizer.php:176
+#: inc/theme-settings/mt-theme-settings.php:497
+msgid "Swipe Pro"
+msgstr ""
+
+#: inc/customizer/customizer.php:177
+#: inc/theme-settings/mt-theme-settings.php:384
+msgid "Buy Now"
+msgstr ""
+
+#: inc/hooks/custom.php:83
+msgid "Skip to content"
+msgstr ""
+
+#: inc/hooks/custom.php:101 inc/customizer/sections/header/top.php:57
+msgid "+01 452 4587254"
+msgstr ""
+
+#: inc/hooks/custom.php:102 inc/customizer/sections/header/top.php:78
+msgid "info@example.com"
+msgstr ""
+
+#: inc/hooks/custom.php:103 inc/customizer/sections/header/top.php:99
+msgid "8108 W. Saxon Street"
+msgstr ""
+
+#. 1: Theme name, 2: Theme author.
+#: inc/hooks/custom.php:567
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:334
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:340
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:346
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:352
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:358
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:364
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:386
+#: inc/tgm/class-tgm-plugin-activation.php:827
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+#: inc/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:387
+#: inc/tgm/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:388
+#: inc/tgm/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. 1: dashboard link.
+#: inc/tgm/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:934
+#: inc/tgm/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1121
+#: inc/tgm/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. %s: version number
+#: inc/tgm/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#. 1: install status, 2: update status
+#: inc/tgm/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#. %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. 1: plugin name, 2: error message.
+#: inc/tgm/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/mt-recommend-plugins.php:64
+msgid "Contact Form, Drag and Drop Form Builder for WordPress – Everest Forms"
+msgstr ""
+
+#: inc/tgm/mt-recommend-plugins.php:73
+msgid "WP Blog Post Layouts"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:43
+#, php-format
+msgid "%1$s Settings"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:137
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:141
+msgid "Cheat in &#8217; huh?"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:158
+msgid "Dismiss this notice."
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:160
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:162
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing %1$s ! To fully take advantage of the best "
+"our theme can offer please make sure you visit our %2$s theme settings page "
+"%3$s."
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:165
+#, php-format
+msgid ""
+"Clicking get started will process to installation of %1$s Mystery Themes "
+"Demo Importer %2$s Plugin in your dashboard. After success it will redirect "
+"to the theme settings page."
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:168
+msgid "Done!"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:168
+msgid "Processing"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:169
+#, php-format
+msgid "Get started with %1$s"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:194
+#, php-format
+msgid "Version: %1$s"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:201
+msgid "Upgrade to Premium Version"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:202
+msgid "Upgrade to pro version for additional features and better supports."
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:204
+msgid "Unlock Features With Pro"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:211
+msgid "Get Started"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:215
+msgid "Demos"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:219
+msgid "Free Vs Pro"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:223
+msgid "Changelog"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:262
+msgid "Here are some useful links for you to get started"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:265
+msgid "Next Steps"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:268
+msgid "Setup site logo"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:271
+msgid "Homepage sections"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:274
+msgid "Manage Post/Page/Archive layouts"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:277
+msgid "Manage Social Icons"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:280
+msgid "Manage menus"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:286
+msgid "More Actions"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:289
+msgid "Documentation"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:292
+msgid "Premium version"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:295
+msgid "Need theme support?"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:298
+msgid "Review theme"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:301
+msgid "WP Tutorials"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:311
+msgid "Return to Updates"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:311
+msgid "Return to Dashboard &rarr; Updates"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:314
+msgid "Go to Dashboard &rarr; Home"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:314
+msgid "Go to Dashboard"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:348
+msgid ""
+"Demos file not configured, you may have not activated mysterythemes demo "
+"importer plugin yet!!"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:374
+#, php-format
+msgid "Imported %1$s"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:375
+msgid "Imported"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:383
+msgid "Purchase Now"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:389
+msgid "Click to import demo"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:391
+msgid "Demo importer plugin is not installed or activated"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:394
+#, php-format
+msgid "Import %1$s"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:395
+msgid "Import"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:402
+msgid "View Demo"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:435
+msgid "View changelog below:"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:491
+msgid "Upgrade to PRO version for more exciting features."
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:495
+msgid "Features"
+msgstr ""
+
+#. Name of the theme
+#: inc/theme-settings/mt-theme-settings.php:496
+#: inc/customizer/sections/footer/sub.php:33
+msgid "SwipeWP"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:502
+msgid "Price"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:503
+msgid "Free"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:504
+msgid "$59.99"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:507
+msgid "Import Demo Data"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:512
+msgid "Pre Loaders Layouts"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:513
+msgid "1"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:514
+msgid "11"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:517
+msgid "Header Layouts"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:518
+msgid "2"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:519
+#: inc/theme-settings/mt-theme-settings.php:528
+msgid "3"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:522
+msgid "Multiple Layouts"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:527
+msgid "Google Fonts"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:529
+msgid "600+"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:532
+msgid "No. of Section"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:533
+msgid "6+"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:534
+msgid "12+"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:537
+msgid "Typography Options"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:542
+msgid "WooCommerce Plugin Compatible"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:547
+msgid "Support"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:548
+msgid "Forum"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:549
+msgid "Forum + Emails/Support Ticket"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:552
+msgid "Browser Compatibility"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:560
+msgid "Buy Pro"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:613
+#, php-format
+msgid ""
+"Howdy, %1$s! It seems that you have been using this theme for more than 15 "
+"days. We hope you are happy with everything that the theme has to offer. If "
+"you can spare a minute, please help us by leaving a 5-star review on "
+"WordPress.org.  By spreading the love, we can continue to develop new "
+"amazing features in the future, for free!"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:624
+msgid "Sure"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:629
+msgid "Maybe later"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:634
+msgid "I already did"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:639
+msgid "Got theme support question?"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:720
+#, php-format
+msgid ""
+"If you like <strong>%1$s</strong> please leave us a %2$s rating. A huge "
+"thank you from <strong>Mystery Themes</strong> in advance &#128515!"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:738
+msgid "You can import available demos now!"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:742
+msgid "Mystery Themes Demo Importer Plugin is not installed!"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:743
+msgid "Installing & Activating"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:743
+msgid "Installed & Activated"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:744
+msgid "Install and Activate"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:749
+msgid "Mystery Themes Demo Importer Plugin is installed but not activated!"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:750
+msgid "Activating"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:750
+msgid "Activated"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:751
+msgid "Activate Now"
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:785
+msgid "Plugin Successfully Activated."
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:803
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:848
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr ""
+
+#: inc/theme-settings/mt-theme-settings.php:866
+msgid "Plugin installed successfully"
+msgstr ""
+
+#: inc/widgets/mt-social-icons.php:26
+msgid "Display the assigned social icons, from customizer."
+msgstr ""
+
+#: inc/widgets/mt-social-icons.php:30
+msgid "MT: Social Icons"
+msgstr ""
+
+#: inc/widgets/mt-social-icons.php:41
+msgid "Widget Title"
+msgstr ""
+
+#: inc/widgets/mt-social-icons.php:43
+msgid "Social Icons"
+msgstr ""
+
+#: inc/widgets/widget-functions.php:21
+msgid "Sidebar"
+msgstr ""
+
+#: inc/widgets/widget-functions.php:23 inc/widgets/widget-functions.php:38
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/widgets/widget-functions.php:36
+msgid "Top Toggle Menu Sidebar"
+msgstr ""
+
+#: inc/widgets/widget-functions.php:51
+#, php-format
+msgid "Footer Area %d"
+msgstr ""
+
+#: inc/widgets/widget-functions.php:53
+msgid "Added widgets are display at footer widget area."
+msgstr ""
+
+#: template-parts/front/section-blog.php:18
+msgid "View All"
+msgstr ""
+
+#: assets/library/breadcrumbs/mt-breadcrumbs-trail.php:264
+msgid "Browse:"
+msgstr ""
+
+#: assets/library/breadcrumbs/mt-breadcrumbs-trail.php:265
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: assets/library/breadcrumbs/mt-breadcrumbs-trail.php:266
+msgid "Home"
+msgstr ""
+
+#: assets/library/breadcrumbs/mt-breadcrumbs-trail.php:267
+msgid "404 Not Found"
+msgstr ""
+
+#: assets/library/breadcrumbs/mt-breadcrumbs-trail.php:268
+msgid "Archives"
+msgstr ""
+
+#. %s is the search query.
+#: assets/library/breadcrumbs/mt-breadcrumbs-trail.php:269
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#. %s is the page number.
+#: assets/library/breadcrumbs/mt-breadcrumbs-trail.php:270
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#. %s is the page number.
+#: assets/library/breadcrumbs/mt-breadcrumbs-trail.php:271
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: assets/library/breadcrumbs/mt-breadcrumbs-trail.php:272
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: assets/library/breadcrumbs/mt-breadcrumbs-trail.php:273
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: assets/library/breadcrumbs/mt-breadcrumbs-trail.php:733
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: assets/library/breadcrumbs/mt-breadcrumbs-trail.php:750
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: assets/library/breadcrumbs/mt-breadcrumbs-trail.php:767
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: assets/library/breadcrumbs/mt-breadcrumbs-trail.php:783
+#: assets/library/breadcrumbs/mt-breadcrumbs-trail.php:812
+#: assets/library/breadcrumbs/mt-breadcrumbs-trail.php:839
+#: assets/library/breadcrumbs/mt-breadcrumbs-trail.php:866
+#: assets/library/breadcrumbs/mt-breadcrumbs-trail.php:1206
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: assets/library/breadcrumbs/mt-breadcrumbs-trail.php:784
+#: assets/library/breadcrumbs/mt-breadcrumbs-trail.php:840
+#: assets/library/breadcrumbs/mt-breadcrumbs-trail.php:1210
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: assets/library/breadcrumbs/mt-breadcrumbs-trail.php:785
+#: assets/library/breadcrumbs/mt-breadcrumbs-trail.php:1214
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: assets/library/breadcrumbs/mt-breadcrumbs-trail.php:813
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: inc/customizer/panels/define-panels.php:22
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/panels/define-panels.php:23
+msgid "Customize Site identity, Colors, Homepage Settings etc..."
+msgstr ""
+
+#: inc/customizer/panels/define-panels.php:35
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer/panels/define-panels.php:36
+msgid "Customize Top Header with extra options for header section."
+msgstr ""
+
+#: inc/customizer/panels/define-panels.php:48
+msgid "Front Page Settings"
+msgstr ""
+
+#: inc/customizer/panels/define-panels.php:49
+msgid "Customize front page (Static Home Page) sections."
+msgstr ""
+
+#: inc/customizer/panels/define-panels.php:61
+msgid "Design Settings"
+msgstr ""
+
+#: inc/customizer/panels/define-panels.php:62
+msgid "Manage the layout/sidebar for innerpages."
+msgstr ""
+
+#: inc/customizer/panels/define-panels.php:74
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer/panels/define-panels.php:75
+msgid "Customize footer widget area and copyright section."
+msgstr ""
+
+#: inc/customizer/panels/define-panels.php:87
+msgid "Additional Features"
+msgstr ""
+
+#: inc/customizer/panels/define-panels.php:88
+msgid "Extra features to enhance website."
+msgstr ""
+
+#: inc/customizer/controls/repeater/class-repeater-control.php:171
+msgid "&mdash; Select a page &mdash;"
+msgstr ""
+
+#: inc/customizer/controls/repeater/class-repeater-control.php:201
+msgid "Select Image"
+msgstr ""
+
+#: inc/customizer/controls/repeater/class-repeater-control.php:202
+msgid "Remove"
+msgstr ""
+
+#: inc/customizer/controls/repeater/class-repeater-control.php:207
+msgid "No image selected"
+msgstr ""
+
+#: inc/customizer/controls/repeater/class-repeater-control.php:221
+msgid "Delete"
+msgstr ""
+
+#: inc/customizer/controls/repeater/class-repeater-control.php:222
+msgid "Close"
+msgstr ""
+
+#: inc/customizer/sections/additional/scroll-to-top.php:23
+msgid "Scroll To Top"
+msgstr ""
+
+#: inc/customizer/sections/additional/scroll-to-top.php:41
+msgid "Enable Scroll To Top Button"
+msgstr ""
+
+#: inc/customizer/sections/additional/scroll-to-top.php:42
+msgid "Enable/disable Scroll To Top Button at footer."
+msgstr ""
+
+#: inc/customizer/sections/additional/social-media.php:23
+#: inc/customizer/sections/additional/social-media.php:50
+msgid "Social Media"
+msgstr ""
+
+#: inc/customizer/sections/additional/social-media.php:54
+msgid "Social Media Icons"
+msgstr ""
+
+#: inc/customizer/sections/additional/social-media.php:55
+msgid "Add Icon"
+msgstr ""
+
+#: inc/customizer/sections/additional/social-media.php:60
+msgid "Social Media Logo"
+msgstr ""
+
+#: inc/customizer/sections/additional/social-media.php:61
+msgid "Choose social media icon."
+msgstr ""
+
+#: inc/customizer/sections/additional/social-media.php:65
+msgid "Social Icon Url"
+msgstr ""
+
+#: inc/customizer/sections/additional/social-media.php:66
+msgid "Enter social media url."
+msgstr ""
+
+#: inc/customizer/sections/design/archive.php:23
+msgid "Archive Settings"
+msgstr ""
+
+#: inc/customizer/sections/design/archive.php:41
+msgid "Archive Sidebars"
+msgstr ""
+
+#: inc/customizer/sections/design/archive.php:42
+#: inc/customizer/sections/design/page.php:42
+#: inc/customizer/sections/design/post.php:42
+msgid "Choose sidebar from available layouts"
+msgstr ""
+
+#: inc/customizer/sections/design/page.php:23
+msgid "Page Settings"
+msgstr ""
+
+#: inc/customizer/sections/design/page.php:41
+msgid "Page Sidebars"
+msgstr ""
+
+#: inc/customizer/sections/design/post.php:23
+msgid "Post Settings"
+msgstr ""
+
+#: inc/customizer/sections/design/post.php:41
+msgid "Post Sidebars"
+msgstr ""
+
+#: inc/customizer/sections/footer/sub.php:23
+msgid "Sub Footer Section"
+msgstr ""
+
+#: inc/customizer/sections/footer/sub.php:39
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/sections/footer/sub.php:45
+msgid "&copy; SwipeWP 2019"
+msgstr ""
+
+#: inc/customizer/sections/footer/widget-area.php:23
+msgid "Widget Area Section"
+msgstr ""
+
+#: inc/customizer/sections/footer/widget-area.php:41
+#: inc/customizer/sections/front/blog.php:41
+#: inc/customizer/sections/front/cta.php:40
+#: inc/customizer/sections/front/portfolio.php:41
+#: inc/customizer/sections/front/services.php:41
+#: inc/customizer/sections/front/sponsors.php:41
+#: inc/customizer/sections/front/team.php:41
+#: inc/customizer/sections/front/testimonials.php:41
+msgid "Enable Section"
+msgstr ""
+
+#: inc/customizer/sections/footer/widget-area.php:42
+msgid "Enable/disable footer widget area section."
+msgstr ""
+
+#: inc/customizer/sections/footer/widget-area.php:64
+msgid "Footer Widget Column"
+msgstr ""
+
+#: inc/customizer/sections/footer/widget-area.php:69
+msgid "Col 1"
+msgstr ""
+
+#: inc/customizer/sections/footer/widget-area.php:70
+msgid "Col 2"
+msgstr ""
+
+#: inc/customizer/sections/footer/widget-area.php:71
+msgid "Col 3"
+msgstr ""
+
+#: inc/customizer/sections/footer/widget-area.php:72
+msgid "Col 4"
+msgstr ""
+
+#: inc/customizer/sections/front/banner.php:15
+msgid "Banner Section"
+msgstr ""
+
+#: inc/customizer/sections/front/banner.php:37
+msgid "Enable Banner Section"
+msgstr ""
+
+#: inc/customizer/sections/front/banner.php:38
+msgid "Enable/disable banner section."
+msgstr ""
+
+#: inc/customizer/sections/front/banner.php:59
+msgid "Banner Title"
+msgstr ""
+
+#: inc/customizer/sections/front/banner.php:87
+msgid "Banner Content"
+msgstr ""
+
+#: inc/customizer/sections/front/banner.php:115
+msgid "Banner Button Label"
+msgstr ""
+
+#: inc/customizer/sections/front/banner.php:143
+msgid "Banner Button Link"
+msgstr ""
+
+#: inc/customizer/sections/front/blog.php:23
+msgid "Blog Section"
+msgstr ""
+
+#: inc/customizer/sections/front/blog.php:42
+msgid "Enable/disable front blog section."
+msgstr ""
+
+#: inc/customizer/sections/front/blog.php:62
+#: inc/customizer/sections/front/portfolio.php:62
+#: inc/customizer/sections/front/team.php:62
+#: inc/customizer/sections/front/testimonials.php:62
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer/sections/front/blog.php:69
+msgid "Featured Insights"
+msgstr ""
+
+#: inc/customizer/sections/front/blog.php:86
+msgid "Blog Category"
+msgstr ""
+
+#: inc/customizer/sections/front/cta.php:22
+msgid "Call To Action Section"
+msgstr ""
+
+#: inc/customizer/sections/front/cta.php:41
+msgid "Enable/disable front call to action section."
+msgstr ""
+
+#: inc/customizer/sections/front/cta.php:64
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer/sections/front/cta.php:65
+msgid "Add image for section background."
+msgstr ""
+
+#: inc/customizer/sections/front/cta.php:87
+msgid "Call To Action Title"
+msgstr ""
+
+#: inc/customizer/sections/front/cta.php:115
+msgid "Call To Action Sub Title"
+msgstr ""
+
+#: inc/customizer/sections/front/cta.php:143
+msgid "Button 1 Label"
+msgstr ""
+
+#: inc/customizer/sections/front/cta.php:171
+msgid "Button 1 Link"
+msgstr ""
+
+#: inc/customizer/sections/front/portfolio.php:23
+msgid "Portfolio Section"
+msgstr ""
+
+#: inc/customizer/sections/front/portfolio.php:42
+msgid "Enable/disable front portfolio section."
+msgstr ""
+
+#: inc/customizer/sections/front/portfolio.php:69
+msgid "Amazing Portfolios"
+msgstr ""
+
+#: inc/customizer/sections/front/portfolio.php:86
+msgid "Portfolio Category"
+msgstr ""
+
+#: inc/customizer/sections/front/services.php:23
+msgid "Services Section"
+msgstr ""
+
+#: inc/customizer/sections/front/services.php:42
+msgid "Enable/disable front services section."
+msgstr ""
+
+#: inc/customizer/sections/front/services.php:62
+msgid "Service Category"
+msgstr ""
+
+#: inc/customizer/sections/front/sponsors.php:23
+msgid "Sponsors Section"
+msgstr ""
+
+#: inc/customizer/sections/front/sponsors.php:42
+#: inc/customizer/sections/front/team.php:42
+msgid "Enable/disable front team section."
+msgstr ""
+
+#: inc/customizer/sections/front/sponsors.php:62
+msgid "Sponsors Category"
+msgstr ""
+
+#: inc/customizer/sections/front/team.php:23
+msgid "Team Section"
+msgstr ""
+
+#: inc/customizer/sections/front/team.php:83
+msgid "Team Category"
+msgstr ""
+
+#: inc/customizer/sections/front/testimonials.php:23
+msgid "Testimonials Section"
+msgstr ""
+
+#: inc/customizer/sections/front/testimonials.php:42
+msgid "Enable/disable front testimonials section."
+msgstr ""
+
+#: inc/customizer/sections/front/testimonials.php:83
+msgid "Testimonials Category"
+msgstr ""
+
+#: inc/customizer/sections/general/theme-options.php:23
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/sections/general/theme-options.php:40
+msgid "Primary Theme Color"
+msgstr ""
+
+#: inc/customizer/sections/general/theme-options.php:62
+msgid "Enable preloader"
+msgstr ""
+
+#: inc/customizer/sections/general/theme-options.php:63
+msgid "Enable/disable preloader before site loads."
+msgstr ""
+
+#: inc/customizer/sections/general/theme-options.php:85
+msgid "Enable breadcrumbs"
+msgstr ""
+
+#: inc/customizer/sections/general/theme-options.php:86
+msgid "Enable/disable breadcrumbs at inner pages."
+msgstr ""
+
+#: inc/customizer/sections/general/theme-options.php:108
+msgid "Enable wow effect"
+msgstr ""
+
+#: inc/customizer/sections/general/theme-options.php:109
+msgid "Enable/disable wow animation at front page only."
+msgstr ""
+
+#: inc/customizer/sections/general/theme-options.php:131
+msgid "Theme Layout"
+msgstr ""
+
+#: inc/customizer/sections/general/theme-options.php:132
+msgid "Choose from available layouts"
+msgstr ""
+
+#: inc/customizer/sections/header/innerpage.php:23
+msgid "Inner Page Section"
+msgstr ""
+
+#: inc/customizer/sections/header/innerpage.php:24
+msgid "Extra options for inner pages header area."
+msgstr ""
+
+#: inc/customizer/sections/header/innerpage.php:41
+msgid "Header Image"
+msgstr ""
+
+#: inc/customizer/sections/header/innerpage.php:42
+msgid ""
+"Click \"Select image\" to upload an image file from your computer. You will "
+"be able to crop your image once you upload it for a perfect fit."
+msgstr ""
+
+#: inc/customizer/sections/header/menu.php:23
+msgid "Main Menu Section"
+msgstr ""
+
+#: inc/customizer/sections/header/menu.php:24
+msgid "Extra options for Main Menu."
+msgstr ""
+
+#: inc/customizer/sections/header/menu.php:40
+msgid "Layout Option"
+msgstr ""
+
+#: inc/customizer/sections/header/menu.php:66
+msgid "Enable Search Icon"
+msgstr ""
+
+#: inc/customizer/sections/header/menu.php:67
+msgid "Enable/disable search icon at main menu."
+msgstr ""
+
+#: inc/customizer/sections/header/menu.php:89
+msgid "Enable Woo Cart Icon"
+msgstr ""
+
+#: inc/customizer/sections/header/menu.php:90
+msgid "Enable/disable WooCommerce cart icon at main menu."
+msgstr ""
+
+#: inc/customizer/sections/header/menu.php:113
+msgid "Enable Side Menu Toggle Bars"
+msgstr ""
+
+#: inc/customizer/sections/header/menu.php:114
+msgid "Enable/disable Side Menu Toggle Bars at main menu."
+msgstr ""
+
+#: inc/customizer/sections/header/menu.php:135
+msgid "Custom Text for Inactive sidebar"
+msgstr ""
+
+#: inc/customizer/sections/header/menu.php:164
+msgid "Enable Sticky Menu"
+msgstr ""
+
+#: inc/customizer/sections/header/menu.php:165
+msgid "Enable/disable Sticky Menu Option."
+msgstr ""
+
+#: inc/customizer/sections/header/top.php:23
+msgid "Top Header Section"
+msgstr ""
+
+#: inc/customizer/sections/header/top.php:24
+msgid "Managed the content display at top header section."
+msgstr ""
+
+#: inc/customizer/sections/header/top.php:42
+msgid "Enable Top Header"
+msgstr ""
+
+#: inc/customizer/sections/header/top.php:43
+msgid "Enable/disable top header section."
+msgstr ""
+
+#: inc/customizer/sections/header/top.php:63
+msgid "Phone"
+msgstr ""
+
+#: inc/customizer/sections/header/top.php:84
+msgid "Email"
+msgstr ""
+
+#: inc/customizer/sections/header/top.php:105
+msgid "Address"
+msgstr ""
+
+#: inc/customizer/sections/header/top.php:128
+msgid "Enable Social Icons"
+msgstr ""
+
+#: inc/customizer/sections/header/top.php:129
+msgid "Enable/disable social icons at top header section."
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"SwipeWP is an awesome free WordPress business theme comes up with plenty of "
+"powerful features that allow you to create a business website in any niche. "
+"It is integrated with WooCommerce and other popular plugins that offers full "
+"flexibility to use all its features. It has a promising design and exemplary "
+"features like Testimonials, Customization option, Optimized for SEO, Amazing "
+"support and documentation that makes no trouble while using the theme. Demo: "
+"https://demo.mysterythemes.com/swipe-demos"
+msgstr ""
+
+#. URI of the theme
+msgid "https://mysterythemes.com/wp-themes/swipewp/"
+msgstr ""
+
+#. Author of the theme
+msgid "Mystery Themes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://mysterythemes.com/"
+msgstr ""
