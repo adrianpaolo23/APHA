@@ -835,3 +835,5 @@ function fetch_feed( $url ) {
 
 	return $feed;
 }
+?>
+</div>

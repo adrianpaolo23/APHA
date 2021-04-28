@@ -14,7 +14,21 @@
 
 get_header();
 ?>
-
+	<section class="header9 cid-srgu19Ga1x" id="header9-a">
+<div class="mbr-overlay" style="opacity: 0.4; background-color: rgb(34, 165, 229);"></div>
+<div class="text-center container">
+<div class="row justify-content-center">
+<div class="col-md-12 col-lg-9">
+<div class="image-wrap mb-4">
+<img src="http://localhost/wordpress/wp-content/uploads/2021/04/assets/images/shop.png" alt="Mobirise">
+<h1 class="mbr-section-title mbr-fonts-style mb-3 display-2"><strong>APHA is the best&nbsp;</strong></h1>   
+</div>
+</div>
+</div>
+</div>
+</section>
+	<div class="mbr-text text-center container">
+	<div class="mbr-section-title mbr-fonts-style mb-3 display-4" style="margin:2px;">
 	<main id="primary" class="site-main">
 
 		<?php
@@ -32,7 +46,9 @@ get_header();
 		?>
 
 	</main><!-- #main -->
+	</div>
+	</div>
 
 <?php
-get_sidebar();
 get_footer();
+?>

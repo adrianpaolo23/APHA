@@ -1,0 +1,68 @@
+2021-04-28T06:39:11+00:00 CRITICAL Uncaught Error: Call to undefined function feed_content_type() in C:\xampp\htdocs\wordpress\wp-includes\general-template.php:3075
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(292): feed_links(Array)
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(3009): do_action('wp_head')
+#4 C:\xampp\htdocs\wordpress\wp-content\themes\blank\header.php(32): wp_head()
+#5 C:\xampp\htdocs\wordpress\wp-includes\template.php(730): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#7 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#8 C:\xampp\htdocs\wordpress\wp-content\themes\blank\single.php(10): get_header()
+#9 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#11 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#12 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-includes\general-template.php on line 3075
+
+2021-04-28T06:39:12+00:00 CRITICAL Uncaught Error: Call to undefined function feed_content_type() in C:\xampp\htdocs\wordpress\wp-includes\general-template.php:3075
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(292): feed_links(Array)
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(3009): do_action('wp_head')
+#4 C:\xampp\htdocs\wordpress\wp-content\themes\blank\header.php(32): wp_head()
+#5 C:\xampp\htdocs\wordpress\wp-includes\template.php(730): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#7 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#8 C:\xampp\htdocs\wordpress\wp-content\themes\blank\404.php(10): get_header()
+#9 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#11 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#12 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-includes\general-template.php on line 3075
+
+2021-04-28T06:39:12+00:00 CRITICAL Uncaught Error: Call to undefined function feed_content_type() in C:\xampp\htdocs\wordpress\wp-includes\general-template.php:3075
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(292): feed_links(Array)
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(3009): do_action('wp_head')
+#4 C:\xampp\htdocs\wordpress\wp-content\themes\blank\header.php(32): wp_head()
+#5 C:\xampp\htdocs\wordpress\wp-includes\template.php(730): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#7 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#8 C:\xampp\htdocs\wordpress\wp-content\themes\blank\404.php(10): get_header()
+#9 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#11 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#12 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-includes\general-template.php on line 3075
+
+2021-04-28T06:39:12+00:00 CRITICAL Uncaught Error: Call to undefined function feed_content_type() in C:\xampp\htdocs\wordpress\wp-includes\general-template.php:3075
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(292): feed_links(Array)
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(3009): do_action('wp_head')
+#4 C:\xampp\htdocs\wordpress\wp-content\themes\blank\header.php(32): wp_head()
+#5 C:\xampp\htdocs\wordpress\wp-includes\template.php(730): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#7 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#8 C:\xampp\htdocs\wordpress\wp-content\themes\blank\404.php(10): get_header()
+#9 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#11 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#12 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-includes\general-template.php on line 3075
+

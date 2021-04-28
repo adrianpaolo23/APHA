@@ -54,10 +54,12 @@
 </button>
 <div class="collapse navbar-collapse" id="navbarSupportedContent">
 <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true">
-<li class="nav-item"><a class="nav-link link text-black display-4" href="http://localhost/wordpress/">Home</a>
+<li class="nav-item"><a class="nav-link link text-black display-4" href="http://localhost/wordpress/">Home</a></li>
+<li class="nav-item"><a class="nav-link link text-black display-4" href="http://localhost/wordpress/shop/">Shop</a></li>
 <li class="nav-item">
 <a class="nav-link link text-black text-primary display-4" href="http://localhost/wordpress/about/" aria-expanded="false">About&nbsp;</a></li>
 <li class="nav-item"><a class="nav-link link text-black display-4" href="http://localhost/wordpress/contact/">Contacts</a>
+<li class="nav-item"><a class="nav-link link text-black display-4" href="http://localhost/wordpress/cart/">My Cart</a></li>
 </li></ul>
 </div>
 </div>

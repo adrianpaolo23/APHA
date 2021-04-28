@@ -31,6 +31,8 @@ if ( post_password_required() ) {
 	return;
 }
 ?>
+<div class="mbr-text text-center container">
+	<div class="mbr-section-title mbr-fonts-style mb-3 display-4" style="margin:2px;">
 <div id="product-<?php the_ID(); ?>" <?php wc_product_class( '', $product ); ?>>
 
 	<?php
@@ -71,6 +73,8 @@ if ( post_password_required() ) {
 	 */
 	do_action( 'woocommerce_after_single_product_summary' );
 	?>
+</div>
+</div>
 </div>
 
 <?php do_action( 'woocommerce_after_single_product' ); ?>

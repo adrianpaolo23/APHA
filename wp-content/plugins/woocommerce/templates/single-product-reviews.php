@@ -66,6 +66,8 @@ if ( ! comments_open() ) {
 	</div>
 
 	<?php if ( get_option( 'woocommerce_review_rating_verification_required' ) === 'no' || wc_customer_bought_product( '', get_current_user_id(), $product->get_id() ) ) : ?>
+		<div class="mbr-text text-center container">
+	<div class="mbr-section-title mbr-fonts-style mb-3 display-4" style="margin:2px;">
 		<div id="review_form_wrapper">
 			<div id="review_form">
 				<?php
@@ -136,6 +138,8 @@ if ( ! comments_open() ) {
 				comment_form( apply_filters( 'woocommerce_product_review_comment_form_args', $comment_form ) );
 				?>
 			</div>
+		</div>
+		</div>
 		</div>
 	<?php else : ?>
 		<p class="woocommerce-verification-required"><?php esc_html_e( 'Only logged in customers who have purchased this product may leave a review.', 'woocommerce' ); ?></p>
